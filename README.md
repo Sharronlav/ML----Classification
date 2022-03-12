@@ -33,7 +33,7 @@ The value of adoption speed is determined by how quickly, if at all, a pet is ad
  - [NumPy](https://numpy.org/)
  - [Pandas](https://pandas.pydata.org/)
  - [Seaborn](https://seaborn.pydata.org/)
- - - [Optuna](https://optuna.org/)
+ - [Optuna](https://optuna.org/)
 
 
 ## 📑 LondonAirBnB DataSet
