@@ -12,8 +12,8 @@ It is worth the wait...
 
 ## 🏘️ Motivation and Introduction
 
-This is a classification project, we used multiple calssification models (RandomForestClassifier,GradientBoostingClassifier,DecisionTreeClassifier,XGBClassifier), while tuning XGBoost hyperparameters using GridSearch,RandomSearch and Bayesian optimization (Optuna). 
-The value of adoption speed is determined by how quickly, if at all, a pet is adopted. The values are determined in the following way:
+This is a classification project, we used multiple calssification models (RandomForestClassifier,GradientBoostingClassifier,DecisionTreeClassifier,XGBClassifier), while tuning XGBoost hyperparameters using GridSearch,RandomSearch and Bayesian optimization (Optuna) and feature engineering & selection (Imputation, Discretization, OHE).
+Our main goal: to predict the speed at which a pet is adopted, based on the pet’s listing on PetFinder (if the profile represents a group of pets, the speed of adoption is determined by the speed at which all of the pets are adopted). The value of adoption speed is determined by how quickly, if at all, a pet is adopted. The values are determined in the following way:
 
 0 - Pet was adopted on the same day as it was listed.
 
@@ -40,8 +40,6 @@ The value of adoption speed is determined by how quickly, if at all, a pet is ad
 
 The dataset was taken from  [Kaggle](https://www.kaggle.com/andrewmvd/okcupid-profiles).
 
-
-Our main goal: to predict the speed at which a pet is adopted, based on the pet’s listing on PetFinder (if the profile represents a group of pets, the speed of adoption is determined by the speed at which all of the pets are adopted).
 
 
 ## ⚙️ Setup
