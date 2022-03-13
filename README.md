@@ -49,7 +49,7 @@ Move the dataset and the notebook to your google drive, and you're good to go!
 ## 🧑‍🤝‍🧑 Authors
 
 - [Lara Ben Amar](https://github.com/larushba)
-- [Shai Nachmani](https://github.com/ShaiNachmani)
+- [Rina Yasiun](https://github.com/Rinayas)
 - [Sharon Lavie](https://github.com/Sharronlav)
 
 
