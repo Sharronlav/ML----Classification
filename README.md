@@ -36,7 +36,7 @@ The value of adoption speed is determined by how quickly, if at all, a pet is ad
  - [Optuna](https://optuna.org/)
 
 
-## 📑 LondonAirBnB DataSet
+## 📑 PetFinder DataSet
 
 The dataset was taken from  [Kaggle](https://www.kaggle.com/andrewmvd/okcupid-profiles).
 
