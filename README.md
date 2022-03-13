@@ -12,7 +12,7 @@ It is worth the wait...
 
 ## 🏘️ Motivation and Introduction
 
-This is a classification project, we used multiple calssificatio models (RandomForestClassifier,GradientBoostingClassifier,DecisionTreeClassifier,XGBClassifier), while tuning XGBoost hyperparameters using GridSearch,RandomSearch and Bayesian optimization (Optuna). 
+This is a classification project, we used multiple calssification models (RandomForestClassifier,GradientBoostingClassifier,DecisionTreeClassifier,XGBClassifier), while tuning XGBoost hyperparameters using GridSearch,RandomSearch and Bayesian optimization (Optuna). 
 The value of adoption speed is determined by how quickly, if at all, a pet is adopted. The values are determined in the following way:
 
 0 - Pet was adopted on the same day as it was listed.
