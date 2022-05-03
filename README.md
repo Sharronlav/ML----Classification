@@ -31,6 +31,7 @@ Our main goal: to predict the speed at which a pet is adopted, based on the petâ
  - [NumPy](https://numpy.org/)
  - [Pandas](https://pandas.pydata.org/)
  - [Seaborn](https://seaborn.pydata.org/)
+ - [scikit-learn](https://scikit-learn.org/stable/)
  - [Optuna](https://optuna.org/)
 
 
