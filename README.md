@@ -43,7 +43,7 @@ The dataset was taken from  [Kaggle](https://www.kaggle.com/andrewmvd/okcupid-pr
 
 
 ## ⚙️ Setup
-Move the dataset and the notebook to your google drive, and you're good to go! 
+Copy the dataset and the notebook to your google drive, and you're good to go! 
 ## 🧑‍🤝‍🧑 Authors
 
 - [Lara Ben Amar](https://github.com/larushba)
