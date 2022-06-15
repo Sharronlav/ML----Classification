@@ -37,7 +37,7 @@ Our main goal: to predict the speed at which a pet is adopted, based on the petâ
 
 ## ðŸ“‘ PetFinder DataSet
 
-The dataset was taken from  [Kaggle](https://www.kaggle.com/andrewmvd/okcupid-profiles).
+The dataset was taken from  [Kaggle](https://www.kaggle.com/competitions/petfinder-adoption-prediction/overview).
 
 
 
